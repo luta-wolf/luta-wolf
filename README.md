@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/denis-skrynnikov">
   <img align="left" alt="Eric's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://instagram.com/d.skrynnikov">
+<a href="https://www.linkedin.com/in/denis-skrynnikov-2262921a4/">
   <img align="left" alt="Eric's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
