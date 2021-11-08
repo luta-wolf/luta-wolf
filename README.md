@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ ### My_progress:
+
+![einterdi's stats](https://badge42.herokuapp.com/api/stats/einterdi)
+
 <!--
 **luta-wolf/luta-wolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://badge42.herokuapp.com/api/stats/einterdi
+
