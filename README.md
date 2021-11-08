@@ -4,10 +4,10 @@
 <a href="https://t.me/d_skrynnikov">
   <img align="left" alt="Eric's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/denis-skrynnikov">
+<a href="www.linkedin.com/in/denis-skrynnikov-2262921a4">
   <img align="left" alt="Eric's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/denis-skrynnikov-2262921a4/">
+<a href="https://instagram.com/d_skrynnikov">
   <img align="left" alt="Eric's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
