@@ -15,7 +15,7 @@
 
 
 
- ### My_progress:
+ ### School21 profile:
 
 ![einterdi's stats](https://badge42.herokuapp.com/api/stats/einterdi)
 
