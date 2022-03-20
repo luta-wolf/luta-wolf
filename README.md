@@ -20,6 +20,7 @@ ____
 |[![luta-wolf Github stats](https://github-readme-stats.vercel.app/api?username=luta-wolf&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/luta-wolf?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luta-wolf&layout=compact&hide_border=true)](https://github.com/luta-wolf?tab=repositories) |
 |---|---|
 ____
+<img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=luta-wolf&color=blue&style=flat&label=visitors" />
 
 <!--
  ### School21 profile:
