@@ -15,6 +15,8 @@
 
 <br />
 
+[![einterdi's 42 stats](https://badge42.vercel.app/api/v2/cl1wfb6qw002609lbj9p7l5hr/stats?cursusId=21&coalitionId=99)](https://github.com/JaeSeoKim/badge42)
+
 ____
 |[![luta-wolf Github stats](https://github-readme-stats.vercel.app/api?username=luta-wolf&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/luta-wolf?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luta-wolf&layout=compact&hide_border=true)](https://github.com/luta-wolf?tab=repositories) |
 |---|---|
