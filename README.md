@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/denis-skrynnikov-2262921a4">
   <img align="left" alt="Eric's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://instagram.com/d_skrynnikov">
-  <img align="left" alt="Eric's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="mailto:denis.skrynnikov.job@gmail.com">
 <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
