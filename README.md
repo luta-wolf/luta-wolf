@@ -9,6 +9,14 @@ ____
 |[![luta-wolf Github stats](https://github-readme-stats.vercel.app/api?username=luta-wolf&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/luta-wolf?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luta-wolf&layout=compact&hide_border=true)](https://github.com/luta-wolf?tab=repositories) |
 |---|---|
 ____
+[//]: # ([![Typing SVG]&#40;https://readme-typing-svg.herokuapp.com?color=%BA55D3&lines=Welcome+to+luta-wolf!&#41;]&#40;https://git.io/typing-svg&#41;)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luta-wolf&theme=dracula)
+
+[//]: # ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com/?user=luta-wolf&theme=radical&#41;]&#40;https://git.io/streak-stats&#41;)
+
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Sluta-wolf&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+____
 <img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=luta-wolf&color=blue&style=flat&label=visitors" />
 
 <!--
