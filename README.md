@@ -5,6 +5,20 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-skrynnikov-2262921a4)
 <a href="https://profile.intra.42.fr/users/einterdi"><img src="https://img.shields.io/badge/intra-000000?style=for-the-badge&logo=42" /></a>
 
+
+## Project List:
+### 🌐 Web Development Projects
+- [Weather app](https://github.com/luta-wolf/weather_app) - Погодное приложение отображает текущую погоду в выбранном городе.(`Python`, `Django`, `api`, `requests`, `venv`).
+
+### 🐍 Python Projects
+- [Piscine_Python_Data_Science](https://github.com/luta-wolf/Piscine_Python_Data_Science) - Изучение базовых навыков программирования, ООП и самых популярных и полезных библиотек для парсинга и обработки данных (`beautiful soup`, `requests`, `jupyter`, `termgraph`, `JQ`, `Pandas`, `PyTest`, `venv`, `counter`, `SQL`, `OOP`).
+- [Weeklython](https://github.com/luta-wolf/Weeklython) - Хакатон, командный проект, по написанию телеграмм бота  в рамках Школы 21. (`Аналитика`, `Планирование`, `Презентация`, `Telegram Bot api`, `Figma`, `UI/UX`, `QR-код`, `CI/CD`)
+### 🌟 Other Projects
+- [Inсeption](https://github.com/luta-wolf/inception) - Развертывание сайта на Docker на движке Wordpress с базой данных Mariadb и веб-сервером Nginx в отдельных контейнерах. (`VirtualBox`, `Debian`, `apt`, `bash`, `sudo`, `ssh`, `shell scripts`, `docker`, `docker compose`, `nginx`, `MariaDB`, `WordPress`, `yaml`)
+- [Born to be root](https://github.com/luta-wolf/Born2beRoot) - Cистемное администрирование, настройка сервера (`VirtualBox`, `Debian`,  `shell scripts`, `apt`, `bash`, `sudo`, `lvm`, `ufw`, `ssh`)
+### Certificates
+- [Программирование на Python](https://stepik.org/cert/1591439)
+
 ____
 |[![luta-wolf Github stats](https://github-readme-stats.vercel.app/api?username=luta-wolf&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/luta-wolf?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luta-wolf&layout=compact&hide_border=true)](https://github.com/luta-wolf?tab=repositories) |
 |---|---|
@@ -18,12 +32,3 @@ ____
 [//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Sluta-wolf&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 ____
 <img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=luta-wolf&color=blue&style=flat&label=visitors" />
-
-<!--
- ## School21 profile:
-
-![einterdi's stats](https://badge42.herokuapp.com/api/stats/einterdi)
-
--->
-## Certificates
-[Программирование на Python](https://stepik.org/cert/1591439)
