@@ -7,7 +7,7 @@
 ## 🛠 Technology stack:
 - Python
 - Django
-- Docker / Docker-compose
+- Docker 
 - PostgreSQL
 - Linux
 - Bash
@@ -15,11 +15,11 @@
 
 ## Project List:
 ### 🌐 Web Development Projects
-- [Weather app](https://github.com/luta-wolf/weather_app) - Погодное приложение отображает текущую погоду в выбранном городе.(`Python`, `Django`, `api`, `requests`, `venv`).
+- [Weather app](https://github.com/luta-wolf/weather_app) - Погодное приложение отображает текущую погоду в выбранном городе.(`Python`, `Django`, `api`, `requests`).
 
 ### 🐍 Python Projects
-- [Piscine_Python_Data_Science](https://github.com/luta-wolf/Piscine_Python_Data_Science) - Изучение базовых навыков программирования, ООП и самых популярных и полезных библиотек для парсинга и обработки данных (`beautiful soup`, `requests`, `jupyter`, `termgraph`, `JQ`, `Pandas`, `PyTest`, `venv`, `counter`, `SQL`, `OOP`).
-- [Weeklython](https://github.com/luta-wolf/Weeklython) - Хакатон, командный проект, по написанию телеграмм бота  в рамках Школы 21. (`Аналитика`, `Планирование`, `Презентация`, `Telegram Bot api`, `Figma`, `UI/UX`, `QR-код`, `CI/CD`)
+- [Piscine_Python_Data_Science](https://github.com/luta-wolf/Piscine_Python_Data_Science) - Изучение базовых навыков программирования, ООП и самых популярных и полезных библиотек для парсинга и обработки данных (`beautiful soup`, `requests`, `jupyter`, `termgraph`, `JQ`, `Pandas`, `PyTest`, `counter`, `SQL`, `OOP`).
+- [Weeklython](https://github.com/luta-wolf/Weeklython) - Хакатон, командный проект, по написанию телеграмм бота  в рамках Школы 21. (`Аналитика`, `Планирование`, `Презентация`, `Telegram Bot api`, `QR-код`)
 ### 🌟 Other Projects
 - [Inсeption](https://github.com/luta-wolf/inception) - Развертывание сайта на Docker на движке Wordpress с базой данных Mariadb и веб-сервером Nginx в отдельных контейнерах. (`VirtualBox`, `Debian`, `apt`, `bash`, `sudo`, `ssh`, `shell scripts`, `docker`, `docker compose`, `nginx`, `MariaDB`, `WordPress`, `yaml`)
 - [Born to be root](https://github.com/luta-wolf/Born2beRoot) - Cистемное администрирование, настройка сервера (`VirtualBox`, `Debian`,  `shell scripts`, `apt`, `bash`, `sudo`, `lvm`, `ufw`, `ssh`)
