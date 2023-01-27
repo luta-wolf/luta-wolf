@@ -6,6 +6,7 @@
 <a href="https://profile.intra.42.fr/users/einterdi"><img src="https://img.shields.io/badge/intra-000000?style=for-the-badge&logo=42" /></a>
 ## 🛠 Technology stack:
 - Python
+- C/C++
 - Django
 - Docker 
 - PostgreSQL
