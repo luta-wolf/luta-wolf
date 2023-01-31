@@ -26,6 +26,8 @@
 - [Inсeption](https://github.com/luta-wolf/inception) - Развертывание сайта на Docker на движке Wordpress с базой данных Mariadb и веб-сервером Nginx в отдельных контейнерах. (`virtualbox`, `debian`, `apt`, `sudo`, `bash`, `ssh`, `shell scripts`, `docker`, `docker compose`, `nginx`, `mariadb`, `wordpress`, `yaml`)
 - [Born to be root](https://github.com/luta-wolf/Born2beRoot) - Поднятие сервера Debian с сайтом на движке Wordpress, а так же настройку политики безопасности и мониторинга. (`virtualbox`, `debian`, `apt`, `sudo`, `bash`, `ssh`, `shell scripts`, `lvm`, `ufw`, `wordpress`)
 - [NetPractice](https://github.com/luta-wolf/NetPractice) - Настройка межсетевых подключений между компьютерами. (`TCP/IP`, `routing table`, `netmask`, `broadcast`)
+### 🌟 Other Projects
+[SQL piscine](https://github.com/luta-wolf/SQL_piscine) - Реляционная модель данных и SQL.
 ### 🏆 Certificates
 - [Программирование на Python](https://stepik.org/cert/1591439)
 
