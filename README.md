@@ -16,7 +16,7 @@
 
 ## Project List:
 ### 🌐 Web Development Projects
-- [Weather app](https://github.com/luta-wolf/weather_app) - Погодное приложение отображает текущую погоду в выбранном городе.(`python`, `django`, `api`, `requests`).
+- [Weather app](https://github.com/luta-wolf/weather_app) - Погодное приложение отображает текущую погоду в выбранном городе.(`python`, `django`, `api`, `requests`). Висит в интернете [здесь](https://einterdi.pythonanywhere.com/).
 - [Scraping service](https://github.com/luta-wolf/scraping_service) - Полноценный сайт-сервис по сбору данных о вакансиях с открытых источников по заданным параметрам. (`python`, `django`, `requests`, `beautiful soup`, `bootstrap`, `sqlite`)
 
 ### 🐍 Python Projects
