@@ -1,4 +1,6 @@
 # Einterdi
+Нравится проекты? - поддержи деньгами по ссылке [здесь](https://www.tinkoff.ru/rm/skrynnikov.denis7/t2ndY42296) или сканикруй QR-код <img width="324" alt="image" src="https://user-images.githubusercontent.com/58044383/222879307-022d111e-8c26-4e5c-8e51-5b0ffde27758.png">
+
 
 [![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denis.skrynnikov.job@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_skrynnikov)
