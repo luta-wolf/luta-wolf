@@ -1,6 +1,6 @@
 # Einterdi
-Нравится проекты? 
-Поддержи деньгами по ссылке [здесь](https://www.tinkoff.ru/rm/skrynnikov.denis7/WhWP090650) или сканируй QR-код <img width="221" alt="image" src="https://user-images.githubusercontent.com/58044383/222880333-deb832ed-abeb-4c8a-8906-1392eafa02ad.png">
+
+Собираю на отпуск в Азию [здесь](https://www.tinkoff.ru/rm/skrynnikov.denis7/WhWP090650) <img width="221" alt="image" src="https://user-images.githubusercontent.com/58044383/222880333-deb832ed-abeb-4c8a-8906-1392eafa02ad.png">
 
 
 
