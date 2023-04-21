@@ -4,6 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_skrynnikov)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-skrynnikov-2262921a4)
 <a href="https://profile.intra.42.fr/users/einterdi"><img src="https://img.shields.io/badge/intra-000000?style=for-the-badge&logo=42" /></a>
+<a href="https://edu.21-school.ru/profile/einterdi@student.21-school.ru"><img src="https://img.shields.io/badge/-SCHOOL%2021-blueviolet" /></a>
 ## 🛠 Technology stack:
 - Python
 - Django
