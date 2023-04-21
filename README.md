@@ -7,6 +7,7 @@
 <a href="https://edu.21-school.ru/profile/einterdi@student.21-school.ru"><img src="https://img.shields.io/badge/-SCHOOL%2021-blueviolet" /></a>
 ## 🛠 Technology stack:
 - Python
+- SQL
 - Django
 - Docker 
 - PostgreSQL
