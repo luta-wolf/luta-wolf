@@ -29,8 +29,13 @@
 - [NetPractice](https://github.com/luta-wolf/NetPractice) - Настройка межсетевых подключений между компьютерами. (`TCP/IP`, `routing table`, `netmask`, `broadcast`)
 ### 🌟 SQL Projects
 - [SQL piscine](https://github.com/luta-wolf/SQL_piscine) - Реляционная модель данных и SQL.
+### 🏆 Hackathons
+- [По мобильной разработке на JS от Сбера](https://docs.google.com/presentation/d/1vie0eYojNqz0EkIvM4maHnz3q1Bv6IOlJs_wEnX5YYk/edit#slide=id.g242c3a58106_0_1471), май 2023. Реализация мобильного приложения на React Native, JS, Node js, mySQL.
+Роль: аналитик, продукт менеджер.
+- [По написанию телеграм бота от Школы 21](https://docs.google.com/presentation/d/1JXBG2MavKjtCPj3nNy7NOH7EOPYi_SI1/edit#slide=id.p1), август 2022. Реализация телеграм бота для бронирования объектов на python, telebot, SQLite.
+Роль: тимлид.
 ### 🏆 Certificates
-- [Программирование на Python](https://stepik.org/cert/1591439)
+- [Программирование на Python](https://drive.google.com/file/d/19laFGiGJHLKYjtK1a1ZvSRi278D5kw4V/view?usp=share_link)
 
 ____
 |[![luta-wolf Github stats](https://github-readme-stats.vercel.app/api?username=luta-wolf&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/luta-wolf?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luta-wolf&layout=compact&hide_border=true)](https://github.com/luta-wolf?tab=repositories) |
