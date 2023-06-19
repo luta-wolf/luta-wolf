@@ -43,7 +43,7 @@
 Роль: тимлид.
 Стек: python, telebot, django, SQLite.
 ### Certificates
-[Все](https://stepik.org/users/400194202)
+- ["Поколение Python": курс для начинающих](https://drive.google.com/file/d/1RJC5GH0DliRe1DHjusaTcpX-DWwIs8Sb/view?usp=drive_link)
 - [Программирование на Python](https://drive.google.com/file/d/19laFGiGJHLKYjtK1a1ZvSRi278D5kw4V/view?usp=share_link)
 
 ____
