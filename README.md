@@ -29,7 +29,9 @@
 - [NetPractice](https://github.com/luta-wolf/NetPractice) - Настройка межсетевых подключений между компьютерами. (`TCP/IP`, `routing table`, `netmask`, `broadcast`)
 ### 🌟 SQL Projects
 - [SQL piscine](https://github.com/luta-wolf/SQL_piscine) - Реляционная модель данных и SQL.
-### 🏆 Achievements
+
+## 🏆 Achievements:
+### Hackathons
 - [Хакатон по мобильной разработке на JS от Сбера](https://docs.google.com/presentation/d/1vie0eYojNqz0EkIvM4maHnz3q1Bv6IOlJs_wEnX5YYk/edit#slide=id.g242c3a58106_0_1471), май 2023.
 Проект мобильного приложения с удобным поиском зарядный станция для электромобилей.
 Результат: `1 место`.
@@ -40,7 +42,7 @@
 Результат: `выход в финал`.
 Роль: тимлид.
 Стек: python, telebot, django, SQLite.
-### 🏆 Certificates
+### Certificates
 [Все](https://stepik.org/users/400194202)
 - [Программирование на Python](https://drive.google.com/file/d/19laFGiGJHLKYjtK1a1ZvSRi278D5kw4V/view?usp=share_link)
 
