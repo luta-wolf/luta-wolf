@@ -16,7 +16,8 @@
 - Bash
 - Git
 
-Резюме -----> <img width="221" alt="image" src="https://github.com/luta-wolf/luta-wolf/blob/main/qr.png"> 
+[Резюме](https://disk.yandex.ru/i/PjAdRxMnHyWEeQ)
+
 ## Project List:
 ### 🌐 Web Development Projects
 - [Weather app](https://github.com/luta-wolf/weather_app) - Погодное приложение отображает текущую погоду в выбранном городе.(`python`, `django`, `api`, `requests`). Висит в интернете [здесь](https://einterdi.pythonanywhere.com/).
