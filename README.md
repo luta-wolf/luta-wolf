@@ -11,11 +11,11 @@
 - SQL
 - PostgreSQL
 - Django
-- Docker 
+- Docker
 - Linux
 - Bash
 - Git
-
+Резюме --- > media/qr.png
 ## Project List:
 ### 🌐 Web Development Projects
 - [Weather app](https://github.com/luta-wolf/weather_app) - Погодное приложение отображает текущую погоду в выбранном городе.(`python`, `django`, `api`, `requests`). Висит в интернете [здесь](https://einterdi.pythonanywhere.com/).
@@ -29,7 +29,7 @@
 - [Born to be root](https://github.com/luta-wolf/Born2beRoot) - Поднятие сервера Debian с сайтом на движке Wordpress, а так же настройку политики безопасности и мониторинга. (`virtualbox`, `debian`, `apt`, `sudo`, `bash`, `ssh`, `shell scripts`, `lvm`, `ufw`, `wordpress`)
 - [NetPractice](https://github.com/luta-wolf/NetPractice) - Настройка межсетевых подключений между компьютерами. (`TCP/IP`, `routing table`, `netmask`, `broadcast`)
 ### 🌟 SQL Projects
-- [SQL piscine](https://github.com/luta-wolf/SQL_piscine) - Реляционная модель данных и SQL.Реализация кассового аппарата, проектирование баз данных для маркет плейса (PostgreSQL, DML, indexes, Datagrip, PgAdmin) 
+- [SQL piscine](https://github.com/luta-wolf/SQL_piscine) - Реляционная модель данных и SQL.Реализация кассового аппарата, проектирование баз данных для маркет плейса (PostgreSQL, DML, indexes, Datagrip, PgAdmin)
 
 ## 🏆 Achievements:
 ### Hackathons
@@ -39,7 +39,7 @@
   - Роль: аналитик, продукт менеджер.
   - Стек: React Native, JS, Node js, mySQL.
 - [Хакатон написанию телеграм бота от Школы 21](https://docs.google.com/presentation/d/1JXBG2MavKjtCPj3nNy7NOH7EOPYi_SI1/edit#slide=id.p1), август 2022.
-Проект, созданный для бронирования объектов в телеграмботе. 
+Проект, созданный для бронирования объектов в телеграмботе.
   - Результат: `выход в финал`.
   - Роль: тимлид.
   - Стек: python, telebot, django, SQLite.
