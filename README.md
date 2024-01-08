@@ -16,7 +16,7 @@
 - Bash
 - Git
 
-[Резюме](https://drive.google.com/file/d/1_bXLhy8ldnfbvQs678P_uBjM1zmyBI8w/view?usp=sharing)
+[Резюме](https://drive.google.com/file/d/1F-ByIdgG52Jvf9rP4F4uvcV3SLaAGZze/view?usp=drive_link)
 
 ## Project List:
 ### 🌐 Web Development Projects
