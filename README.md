@@ -46,6 +46,8 @@
   - Роль: продукт менеджер, архитектор баз данных.
   - Стек: python, telebot, django, SQLite.
 ### Certificates
+- [Основы Agile](https://drive.google.com/file/d/1oXl1OGr2P6Ov_KJlo6IJI8auZpR414GM/view?usp=sharing)
+- [Основы SQL](https://drive.google.com/file/d/1vdGNIhCSPsenlMZNS8P03-RMMTywfeVf/view?usp=sharing)
 - [Марафон данных: первое знакомство с SQL и Python](https://drive.google.com/file/d/1baLISBjZQCH346iW9caH5Og3dXPaYXWy/view?usp=drive_link)
 - ["Поколение Python": курс для начинающих](https://drive.google.com/file/d/1RJC5GH0DliRe1DHjusaTcpX-DWwIs8Sb/view?usp=drive_link)
 - [Программирование на Python](https://drive.google.com/file/d/19laFGiGJHLKYjtK1a1ZvSRi278D5kw4V/view?usp=share_link)
