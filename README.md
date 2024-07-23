@@ -10,13 +10,12 @@
 - Python
 - SQL
 - PostgreSQL
-- Django
+- Airflow
+- RabbitMQ, Kafka
 - Docker
 - Linux
 - Bash
 - Git
-
-[Резюме](https://drive.google.com/file/d/1F-ByIdgG52Jvf9rP4F4uvcV3SLaAGZze/view?usp=drive_link)
 
 ## Project List:
 ### 🌐 Web Development Projects
@@ -66,4 +65,4 @@ ____
 ____
 <img alt="surfi's visitors" src="https://komarev.com/ghpvc/?username=luta-wolf&color=blue&style=flat&label=visitors" />
 
-[Собираю](https://www.tinkoff.ru/rm/skrynnikov.denis7/WhWP090650) на отпуск в Азию  --> <img width="221" alt="image" src="https://user-images.githubusercontent.com/58044383/222880333-deb832ed-abeb-4c8a-8906-1392eafa02ad.png">
+[Собираю](https://www.tinkoff.ru/rm/skrynnikov.denis7/WhWP090650) на отпуск в Японию  --> <img width="221" alt="image" src="https://user-images.githubusercontent.com/58044383/222880333-deb832ed-abeb-4c8a-8906-1392eafa02ad.png">
